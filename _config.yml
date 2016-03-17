@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#272629'
+    - '#E0E7EB'
+    - '#E0BD9A'
+    - '#898888'
+    - '#669141'
+  rhythmicContrast: 1
+typography_spectrum: 1
+name: Jokers
